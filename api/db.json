@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "email": "tbhoang95@gmail.com",
+      "password": "$2a$10$Nao4ovch6dkAi41yI/sy2u.Wx4uWgIF.qzANs6btW2Qlc9oYs4ifS",
+      "user": "Admin",
+      "fullname": "Truong Bao Hoang",
+      "id": 1,
+      "active": 2,
+      "admin": 1
+    },
+    {
+      "email": "tbhoang951@gmail.com",
+      "password": "$2a$10$Nao4ovch6dkAi41yI/sy2u.Wx4uWgIF.qzANs6btW2Qlc9oYs4ifS",
+      "user": "hieunh",
+      "fullname": "Nguyen Hoang Hieu",
+      "id": 2,
+      "active": 2,
+      "admin": 2
+    },
+    {
+      "email": "tbhoang952@gmail.com",
+      "password": "$2a$10$Nao4ovch6dkAi41yI/sy2u.Wx4uWgIF.qzANs6btW2Qlc9oYs4ifS",
+      "user": "hantk",
+      "fullname": "Tran Khanh Han",
+      "id": 3,
+      "active": 2,
+      "admin": 2
+    },
+    {
+      "email": "tbhoang953@gmail.com",
+      "password": "$2a$10$Nao4ovch6dkAi41yI/sy2u.Wx4uWgIF.qzANs6btW2Qlc9oYs4ifS",
+      "user": "lamth",
+      "fullname": "Tran Thanh Lam",
+      "id": 4,
+      "active": 2,
+      "admin": 2
+    },
+    {
+      "email": "tbhoang954@gmail.com",
+      "password": "$2a$10$Nao4ovch6dkAi41yI/sy2u.Wx4uWgIF.qzANs6btW2Qlc9oYs4ifS",
+      "user": "dongth",
+      "fullname": "Tran Huu Dong",
+      "id": 5,
+      "active": 2,
+      "admin": 2
+    },
+    {
+      "email": "tbhoang955@gmail.com",
+      "password": "$2a$10$Nao4ovch6dkAi41yI/sy2u.Wx4uWgIF.qzANs6btW2Qlc9oYs4ifS",
+      "user": "xuyentn",
+      "fullname": "Tran Ngoc Xuyen",
+      "id": 6,
+      "active": 2,
+      "admin": 2
+    },
+    {
+      "email": "tbhoang956@gmail.com",
+      "password": "$2a$10$Nao4ovch6dkAi41yI/sy2u.Wx4uWgIF.qzANs6btW2Qlc9oYs4ifS",
+      "user": "tandv",
+      "fullname": "Dong Van Tan",
+      "id": 7,
+      "active": 2,
+      "admin": 2
+    },
+    {
+      "email": "tbhoang957@gmail.com",
+      "password": "$2a$10$043zp3T5yisAiWgeYi4FIOmCb60.ARVGxR8q8LNaaW9JMp4kU13hS",
+      "user": "dongmd",
+      "fullname": "Đồng Văn Đông",
+      "active": 2,
+      "admin": 2,
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "userId": 5,
+      "content": "dấdasdadaaddsasdasdas",
+      "image": "/anh-real-madrid_26.jpg",
+      "favorite": true,
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "content": "liverpool",
+      "image": "/FtMHvC3XgAAKMag.jpg",
+      "favorite": false,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "content": "s",
+      "image": "/Fp04AaRXoAU0pFl.jpg",
+      "favorite": false,
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "content": "Real Madrid",
+      "image": "/105245fa440c63312a41c225135f8976.jpg",
+      "favorite": false,
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "content": "West Ham",
+      "image": "/Fbg9EcOWAAA7C4f.jpg",
+      "favorite": true,
+      "id": 12
+    },
+    {
+      "userId": 4,
+      "content": "Manchester United",
+      "image": "/Ba3cf40e999d42c31b8c.jpg",
+      "favorite": false,
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "content": "Cris...",
+      "image": "/Huyen-thoai-vi-dai-nhat-MU-Giggs-so-1-Rooney-va-Ronaldo-khong-lot-top-5-mu-4-1626582733-335-width740height925.jpg",
+      "favorite": false,
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "content": "Liverpool vs ManChester City",
+      "image": "/FY01GgCXoAAuTsd.jpg",
+      "favorite": true,
+      "id": 17
+    },
+    {
+      "userId": 7,
+      "content": "Erling Haaland",
+      "image": "/FrR9AGKXwAMPmpj (1).jpg",
+      "favorite": false,
+      "id": 19
+    },
+    {
+      "userId": 5,
+      "content": "hahaha",
+      "image": "/Fsu8moCXgAENgT2.jpg",
+      "favorite": true,
+      "id": 20
+    },
+    {
+      "userId": 7,
+      "content": "PSG",
+      "image": "/e8dh1ojxeaaeubg-1628636623529177706440.jpg",
+      "favorite": false,
+      "id": 21
+    }
+  ],
+  "comments": [
+    {
+      "commentId": 12,
+      "userId": 3,
+      "content": "tomas soucek",
+      "user": "tandv",
+      "id": 1
+    },
+    {
+      "commentId": 20,
+      "userId": 5,
+      "content": "quata",
+      "user": "tandv",
+      "id": 2
+    }
+  ],
+  "follows": [
+    {
+      "id": 2,
+      "userId": 2,
+      "followId": [
+        5
+      ]
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "followId": [
+        2
+      ]
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "followId": [
+        1
+      ]
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "followId": [
+        3
+      ]
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "followId": [
+        6,
+        1,
+        4
+      ]
+    }
+  ]
+}
